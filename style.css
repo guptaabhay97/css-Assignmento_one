@@ -1,0 +1,73 @@
+*{
+    color:#933333;
+}
+.fa{
+    color:red;
+    font-weight: bolder;
+    font-size: 3vw;
+}
+h2{
+    color:#ec0606cc ;
+    font-weight: bolder;
+    font-style:oblique;
+    font-size: 2vw;
+   
+}
+ol li{
+    margin-top:1.7em;
+   font-weight: 700;
+
+}
+
+ul li{
+   letter-spacing:6px;
+   font-weight: 700;
+
+}
+p{
+   font-weight: 700;
+}
+.achiever{
+    background-color: yellow;
+    font-style:oblique;
+   font-weight: 700;   
+}
+a{
+    text-decoration:none;
+    
+ }
+
+
+
+ @media (max-width:600px) {
+  
+    
+
+    .fa{
+        color:red;
+        font-weight: bolder;
+        font-size: 6vw;
+    }
+    h2{
+        color:#ec0606cc ;
+        font-weight: bolder;
+        font-style:oblique;
+        font-size: 5vw;
+       
+    }
+    ol li{
+        margin-top:1.7em;
+       font-weight: 700;
+       font-size: 4vw;
+    
+    }
+    
+    ul li{
+       letter-spacing:6px;
+       font-weight: 700;
+        font-size: 4vw;
+    }
+    p{
+       font-weight: 700;
+    }
+ }
